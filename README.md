@@ -1,0 +1,2 @@
+# CodeClause-Intern
+AI Intern
